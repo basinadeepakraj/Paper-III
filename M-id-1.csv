@@ -1,0 +1,512 @@
+Appliance,RatedPower,Tariff,Type,Starts,Lenghts
+Water Purifier,2,8,Elastic,"[3, 6, 15]",[1]
+Water Purifier,2,1,Elastic,"[7, 8, 18]",[1]
+AirPurifier,3,1,Rigid,"[0, 6, 12, 13, 21]","[[6, 1, 1, 8, 2]]"
+Washing Machine,10,6,Rigid,"[9, 14]","[[1, 7]]"
+Audio System,2,5,Rigid,"[13, 16, 22]","[[3, 6, 1]]"
+Dehumidifier,3,8,Elastic,"[1, 15, 18]",[1]
+Water Purifier,2,3,Elastic,"[17, 21, 22]",[1]
+Projector,3,2,Rigid,"[0, 1, 11, 12, 15]","[[1, 10, 1, 3, 3]]"
+Audio System,2,4,Rigid,"[7, 17]","[[7, 5]]"
+AC,10,5,Rigid,"[4, 6, 16, 17]","[[2, 1, 1, 3]]"
+Refrigerator,5,4,Elastic,"[11, 13, 15]",[2]
+Desktops,3,6,Elastic,"[0, 7, 19]",[2]
+Laptop,1,5,Rigid,[2],[[1]]
+Printer,5,5,Rigid,"[3, 5, 19]","[[2, 5, 1]]"
+Laptop,1,5,Rigid,"[9, 20, 22]","[[8, 2, 1]]"
+Printer,5,1,Elastic,"[10, 12, 13]",[1]
+AirPurifier,3,5,Rigid,"[0, 4, 7, 12, 13]","[[1, 3, 2, 1, 9]]"
+Vaccum Cleaner,2,4,Elastic,"[7, 16, 20]",[1]
+Microwave Oven,10,7,Rigid,"[1, 4, 6]","[[2, 1, 3]]"
+Dehumidifier,3,3,Elastic,"[4, 8, 18]",[1]
+Washing Machine,10,8,Rigid,"[1, 6, 11, 12, 16]","[[1, 2, 1, 2, 4]]"
+Monitors,2,7,Elastic,"[0, 15, 16]",[1]
+AirPurifier,3,3,Rigid,"[4, 10, 18]","[[4, 4, 3]]"
+Projector,3,6,Elastic,"[2, 7, 17]",[1]
+Fan,1,3,Rigid,"[6, 8, 10, 16, 19]","[[2, 2, 3, 2, 1]]"
+Humidifier,3,8,Rigid,"[1, 3, 10, 13, 17]","[[1, 4, 1, 2, 3]]"
+Desktops,3,7,Rigid,"[2, 7, 8, 17, 18]","[[3, 1, 9, 1, 4]]"
+AirPurifier,3,1,Elastic,"[0, 19, 21]",[1]
+Projector,3,2,Rigid,"[7, 18]","[[7, 2]]"
+Audio System,2,4,Rigid,[13],[[7]]
+Microwave Oven,10,5,Elastic,"[3, 6, 10]",[3]
+AirPurifier,3,1,Rigid,"[10, 14, 19]","[[4, 3, 4]]"
+Light,1,6,Elastic,"[3, 6, 8]",[2]
+Dehumidifier,3,3,Rigid,"[6, 7, 11]","[[1, 3, 2]]"
+Microwave Oven,10,4,Elastic,"[1, 9, 10]",[1]
+Heater,10,5,Rigid,"[3, 17, 19]","[[10, 1, 2]]"
+Laptop,1,4,Elastic,"[2, 8, 17]",[1]
+Light,1,1,Elastic,"[4, 11, 15]",[1]
+Microwave Oven,10,2,Rigid,"[4, 10]","[[3, 2]]"
+Refrigerator,5,5,Rigid,"[4, 17]","[[12, 1]]"
+Washing Machine,10,3,Elastic,"[5, 13, 17]",[1]
+Water Pump,10,2,Elastic,"[8, 13, 17]",[4]
+Kettle,10,1,Elastic,"[5, 8, 10]",[2]
+Monitors,2,7,Rigid,[22],[[1]]
+Washing Machine,10,3,Elastic,"[8, 12, 18]",[4]
+Audio System,2,2,Rigid,"[0, 5, 10, 16]","[[5, 4, 6, 6]]"
+Laptop,1,6,Elastic,"[7, 15, 21]",[2]
+Heater,10,5,Rigid,[2],[[17]]
+Humidifier,3,4,Elastic,"[9, 17, 22]",[1]
+Audio System,2,8,Rigid,[19],[[4]]
+Laptop,1,5,Elastic,"[1, 6, 18]",[4]
+Coffee Maker,10,6,Elastic,"[5, 16, 17]",[1]
+AirPurifier,3,5,Rigid,"[19, 21]","[[1, 2]]"
+Water Pump,10,7,Elastic,"[5, 10, 14]",[2]
+Kettle,10,4,Rigid,"[3, 13, 17, 19]","[[5, 3, 1, 4]]"
+Dishwasher,10,4,Elastic,"[0, 18, 20]",[1]
+Humidifier,3,3,Elastic,"[4, 6, 17]",[2]
+AC,10,3,Elastic,"[3, 13, 15]",[1]
+Kettle,10,4,Elastic,"[0, 3, 18]",[3]
+Desktops,3,5,Rigid,[16],[[3]]
+Microwave Oven,10,7,Elastic,"[0, 10, 16]",[1]
+Rice Cooker,2,5,Elastic,"[10, 18, 21]",[2]
+Monitors,2,7,Elastic,"[0, 6, 17]",[3]
+Refrigerator,5,4,Elastic,"[13, 16, 19]",[3]
+Humidifier,3,8,Rigid,"[0, 16, 21]","[[13, 5, 2]]"
+Rice Cooker,2,2,Elastic,"[7, 9, 20]",[1]
+Coffee Maker,10,3,Elastic,"[2, 5, 8]",[3]
+Security Camera,1,5,Elastic,"[9, 17, 21]",[1]
+Rice Cooker,2,8,Rigid,"[1, 3, 8, 16]","[[2, 1, 6, 1]]"
+Printer,5,3,Rigid,[12],[[11]]
+Humidifier,3,4,Rigid,"[2, 8, 22]","[[5, 11, 1]]"
+Vaccum Cleaner,2,1,Rigid,"[17, 20, 22]","[[2, 2, 1]]"
+Vaccum Cleaner,2,7,Rigid,"[8, 10, 19, 22]","[[1, 5, 3, 1]]"
+Desktops,3,7,Elastic,"[7, 8, 13]",[1]
+Monitors,2,3,Elastic,"[4, 18, 19]",[1]
+Vaccum Cleaner,2,3,Rigid,"[14, 22]","[[6, 1]]"
+TV,5,2,Rigid,"[2, 3, 7]","[[1, 3, 16]]"
+Fan,1,1,Rigid,"[0, 1, 6, 15, 21]","[[1, 3, 5, 1, 1]]"
+Fan,1,7,Rigid,"[5, 7, 12, 14]","[[1, 3, 2, 9]]"
+Kettle,10,4,Elastic,"[8, 10, 22]",[1]
+Laptop,1,1,Rigid,[15],[[6]]
+Vaccum Cleaner,2,5,Rigid,"[0, 4, 5, 20]","[[1, 1, 3, 3]]"
+Dishwasher,10,7,Elastic,"[2, 4, 14]",[2]
+Light,1,1,Rigid,[8],[[13]]
+Projector,3,2,Rigid,[15],[[3]]
+Humidifier,3,8,Elastic,"[8, 10, 20]",[2]
+Laptop,1,1,Rigid,"[13, 19, 22]","[[5, 3, 1]]"
+Heater,10,7,Rigid,"[2, 8, 13, 21, 22]","[[6, 5, 2, 1, 1]]"
+Fan,1,1,Rigid,"[1, 2, 16, 20]","[[1, 9, 3, 1]]"
+AirPurifier,3,3,Rigid,"[4, 12, 21, 22]","[[8, 1, 1, 1]]"
+Dehumidifier,3,2,Elastic,"[1, 8, 12]",[3]
+Printer,5,5,Rigid,"[6, 7, 16, 17]","[[1, 6, 1, 5]]"
+Printer,5,3,Elastic,"[16, 17, 18]",[1]
+Humidifier,3,4,Elastic,"[10, 12, 16]",[1]
+Rice Cooker,2,3,Rigid,[9],[[14]]
+Microwave Oven,10,7,Elastic,"[8, 10, 11]",[1]
+Refrigerator,5,1,Rigid,"[10, 18]","[[2, 4]]"
+AC,10,8,Elastic,"[2, 12, 18]",[1]
+Kettle,10,5,Rigid,"[9, 10, 11, 12, 20]","[[1, 1, 1, 1, 1]]"
+Humidifier,3,3,Rigid,"[13, 19]","[[1, 1]]"
+Microwave Oven,10,2,Rigid,"[2, 18, 20]","[[3, 1, 1]]"
+Audio System,2,7,Rigid,"[7, 9, 11, 15, 22]","[[1, 2, 2, 4, 1]]"
+Heater,10,4,Elastic,"[2, 8, 13]",[2]
+Monitors,2,7,Elastic,"[2, 12, 19]",[4]
+Security Camera,1,8,Rigid,"[9, 22]","[[12, 1]]"
+Heater,10,6,Elastic,"[13, 16, 17]",[1]
+Refrigerator,5,5,Elastic,"[4, 9, 16]",[4]
+Washing Machine,10,3,Elastic,"[0, 13, 20]",[3]
+Dishwasher,10,6,Elastic,"[9, 12, 21]",[1]
+Light,1,1,Elastic,"[8, 11, 14]",[3]
+Rice Cooker,2,7,Elastic,"[3, 11, 15]",[2]
+TV,5,1,Rigid,"[4, 11, 18]","[[7, 3, 4]]"
+Heater,10,5,Elastic,"[8, 13, 22]",[1]
+TV,5,8,Elastic,"[2, 13, 22]",[1]
+Laptop,1,3,Rigid,[3],[[9]]
+Projector,3,3,Rigid,[13],[[10]]
+Desktops,3,4,Elastic,"[1, 11, 20]",[1]
+Kettle,10,2,Elastic,"[5, 8, 21]",[2]
+Fan,1,2,Elastic,"[3, 14, 21]",[2]
+Kettle,10,7,Rigid,"[3, 4, 12, 15, 19]","[[1, 3, 3, 3, 4]]"
+Microwave Oven,10,8,Rigid,"[0, 3, 10, 15, 21]","[[2, 6, 3, 1, 2]]"
+AirPurifier,3,4,Elastic,"[7, 8, 22]",[1]
+Laptop,1,5,Rigid,"[1, 17, 19, 20]","[[5, 2, 1, 2]]"
+Coffee Maker,10,5,Elastic,"[6, 11, 15]",[4]
+Audio System,2,3,Elastic,"[1, 4, 17]",[3]
+Heater,10,3,Rigid,"[10, 15, 19]","[[1, 2, 2]]"
+Humidifier,3,2,Rigid,"[3, 5, 7, 18, 21]","[[1, 2, 7, 2, 1]]"
+Security Camera,1,4,Rigid,"[8, 21]","[[11, 2]]"
+Heater,10,7,Rigid,[10],[[6]]
+Laptop,1,5,Rigid,"[1, 2, 3, 9, 11]","[[1, 1, 3, 1, 6]]"
+Light,1,3,Elastic,"[11, 20, 22]",[1]
+Monitors,2,6,Elastic,"[0, 10, 16]",[1]
+Humidifier,3,5,Elastic,"[2, 18, 21]",[2]
+Kettle,10,7,Elastic,"[7, 9, 20]",[1]
+Desktops,3,2,Rigid,"[6, 13]","[[3, 9]]"
+Security Camera,1,5,Elastic,"[4, 12, 15]",[3]
+Monitors,2,6,Rigid,"[11, 16, 17, 18, 21]","[[1, 1, 1, 3, 1]]"
+Laptop,1,3,Rigid,"[5, 9, 10, 11]","[[2, 1, 1, 7]]"
+Desktops,3,3,Elastic,"[9, 20, 21]",[1]
+Water Pump,10,2,Elastic,"[0, 13, 19]",[4]
+Dehumidifier,3,7,Elastic,"[1, 14, 19]",[1]
+Printer,5,1,Rigid,[18],[[2]]
+Refrigerator,5,6,Elastic,"[11, 18, 20]",[2]
+Audio System,2,4,Rigid,"[1, 3, 5, 11, 22]","[[2, 2, 6, 6, 1]]"
+Desktops,3,7,Elastic,"[9, 11, 12]",[1]
+Coffee Maker,10,4,Rigid,[10],[[11]]
+Desktops,3,3,Elastic,"[3, 10, 22]",[1]
+TV,5,7,Rigid,"[3, 7, 10, 22]","[[3, 3, 4, 1]]"
+Rice Cooker,2,8,Rigid,"[3, 12, 14, 17]","[[8, 2, 1, 2]]"
+Projector,3,7,Rigid,[20],[[1]]
+Coffee Maker,10,5,Rigid,"[3, 16]","[[5, 1]]"
+Water Purifier,2,4,Elastic,"[0, 7, 17]",[4]
+Audio System,2,3,Elastic,"[2, 7, 21]",[1]
+Water Pump,10,1,Rigid,"[1, 6, 7, 16]","[[5, 1, 4, 4]]"
+Printer,5,1,Elastic,"[2, 3, 17]",[1]
+Desktops,3,4,Rigid,[9],[[8]]
+AC,10,3,Rigid,"[10, 14, 17, 20, 22]","[[4, 3, 1, 2, 1]]"
+Water Pump,10,5,Elastic,"[4, 8, 18]",[3]
+Audio System,2,2,Elastic,"[4, 8, 10]",[2]
+Dehumidifier,3,7,Elastic,"[0, 14, 18]",[2]
+Laptop,1,2,Rigid,"[4, 7, 13, 18, 22]","[[3, 4, 4, 2, 1]]"
+Fan,1,1,Rigid,"[4, 12, 13, 21]","[[3, 1, 4, 2]]"
+Water Pump,10,4,Elastic,"[5, 7, 11]",[2]
+Water Pump,10,8,Elastic,"[2, 9, 16]",[2]
+Printer,5,5,Rigid,"[1, 8, 11, 14, 19]","[[1, 2, 1, 2, 1]]"
+Projector,3,4,Rigid,"[3, 6, 12, 16, 22]","[[2, 6, 2, 6, 1]]"
+Monitors,2,2,Rigid,"[12, 15, 17, 19, 21]","[[1, 2, 1, 1, 1]]"
+Rice Cooker,2,7,Elastic,"[3, 8, 15]",[2]
+Audio System,2,1,Elastic,"[1, 6, 15]",[4]
+Microwave Oven,10,4,Rigid,[21],[[1]]
+Water Purifier,2,4,Rigid,"[6, 7, 11, 12, 16]","[[1, 1, 1, 1, 4]]"
+Desktops,3,3,Rigid,"[1, 15, 18]","[[9, 1, 5]]"
+Printer,5,7,Elastic,"[8, 11, 12]",[1]
+Desktops,3,8,Rigid,"[4, 9, 10, 18]","[[5, 1, 2, 5]]"
+Vaccum Cleaner,2,1,Rigid,[18],[[5]]
+Light,1,6,Elastic,"[1, 11, 17]",[6]
+Heater,10,2,Elastic,"[2, 17, 20]",[2]
+Heater,10,1,Rigid,"[4, 6, 11]","[[1, 5, 2]]"
+Rice Cooker,2,7,Elastic,"[8, 10, 19]",[2]
+Monitors,2,2,Rigid,"[9, 12, 17]","[[3, 5, 1]]"
+Monitors,2,3,Elastic,"[2, 4, 13]",[2]
+Microwave Oven,10,4,Rigid,[8],[[12]]
+Printer,5,5,Rigid,"[2, 9, 10, 16, 17]","[[2, 1, 4, 1, 6]]"
+Light,1,6,Elastic,"[1, 5, 17]",[4]
+Laptop,1,4,Rigid,"[3, 4, 8, 16, 18]","[[1, 2, 1, 2, 4]]"
+Heater,10,6,Rigid,[0],[[16]]
+Fan,1,5,Rigid,[7],[[3]]
+Desktops,3,4,Rigid,"[7, 9, 15, 16]","[[2, 3, 1, 6]]"
+Fan,1,3,Rigid,"[9, 13, 15, 18, 19]","[[3, 1, 2, 1, 1]]"
+Refrigerator,5,7,Elastic,"[2, 10, 20]",[2]
+Audio System,2,8,Elastic,"[18, 19, 21]",[1]
+Kettle,10,3,Elastic,"[9, 16, 21]",[2]
+Refrigerator,5,5,Elastic,"[0, 9, 19]",[1]
+Water Purifier,2,6,Rigid,"[6, 10, 14, 15, 22]","[[2, 4, 1, 1, 1]]"
+AirPurifier,3,5,Rigid,"[0, 10, 12]","[[6, 2, 10]]"
+Fan,1,2,Elastic,"[3, 20, 21]",[1]
+Audio System,2,5,Elastic,"[7, 10, 19]",[1]
+Audio System,2,6,Elastic,"[9, 12, 13]",[1]
+Fan,1,7,Rigid,"[1, 7, 19, 20, 22]","[[4, 7, 1, 1, 1]]"
+AirPurifier,3,5,Elastic,"[5, 15, 21]",[1]
+Security Camera,1,7,Elastic,"[10, 15, 16]",[1]
+Microwave Oven,10,5,Elastic,"[0, 2, 9]",[2]
+Desktops,3,4,Elastic,"[7, 11, 13]",[1]
+Desktops,3,3,Rigid,"[1, 2, 6]","[[1, 1, 14]]"
+Light,1,1,Rigid,[17],[[3]]
+Dishwasher,10,4,Elastic,"[6, 8, 9]",[1]
+Laptop,1,4,Elastic,"[1, 7, 17]",[6]
+Printer,5,6,Elastic,"[0, 3, 13]",[3]
+Audio System,2,2,Rigid,"[5, 7]","[[2, 4]]"
+Security Camera,1,3,Rigid,"[1, 4, 7, 9]","[[2, 1, 1, 8]]"
+Laptop,1,3,Rigid,[6],[[2]]
+Light,1,4,Elastic,"[8, 16, 22]",[1]
+Audio System,2,1,Elastic,"[6, 10, 11]",[1]
+Coffee Maker,10,7,Elastic,"[2, 7, 13]",[4]
+Humidifier,3,2,Rigid,[13],[[5]]
+Microwave Oven,10,6,Elastic,"[11, 13, 14]",[1]
+AC,10,8,Rigid,"[4, 5, 9]","[[1, 2, 14]]"
+Washing Machine,10,3,Elastic,"[4, 5, 20]",[1]
+Microwave Oven,10,4,Elastic,"[5, 10, 20]",[2]
+Rice Cooker,2,2,Elastic,"[4, 11, 17]",[4]
+Fan,1,6,Rigid,"[15, 17]","[[1, 1]]"
+Dehumidifier,3,6,Elastic,"[3, 10, 20]",[1]
+Printer,5,5,Rigid,[7],[[10]]
+Heater,10,7,Rigid,"[1, 7, 9]","[[6, 1, 4]]"
+Fan,1,4,Elastic,"[4, 8, 16]",[2]
+Laptop,1,5,Elastic,"[14, 16, 18]",[2]
+Audio System,2,6,Rigid,"[2, 6, 7, 8]","[[2, 1, 1, 1]]"
+Water Pump,10,6,Rigid,[11],[[2]]
+Washing Machine,10,4,Rigid,"[6, 10, 19, 20]","[[2, 1, 1, 2]]"
+Vaccum Cleaner,2,1,Rigid,"[11, 15, 17]","[[2, 2, 1]]"
+Microwave Oven,10,5,Elastic,"[2, 15, 18]",[2]
+Printer,5,5,Rigid,"[0, 5, 10]","[[2, 3, 5]]"
+Dehumidifier,3,8,Elastic,"[0, 5, 9]",[3]
+Light,1,7,Elastic,"[6, 8, 19]",[2]
+Kettle,10,5,Elastic,"[5, 10, 21]",[1]
+AirPurifier,3,7,Elastic,"[16, 18, 22]",[1]
+Water Purifier,2,3,Elastic,"[1, 7, 22]",[1]
+Monitors,2,2,Rigid,"[10, 15, 16, 18, 22]","[[5, 1, 2, 4, 1]]"
+Kettle,10,3,Elastic,"[1, 11, 14]",[1]
+Microwave Oven,10,2,Elastic,"[5, 6, 11]",[1]
+Printer,5,6,Elastic,"[5, 15, 18]",[2]
+Desktops,3,4,Rigid,"[5, 6, 16, 20]","[[1, 8, 1, 2]]"
+Humidifier,3,3,Elastic,"[4, 5, 19]",[1]
+Audio System,2,7,Elastic,"[14, 16, 17]",[1]
+Audio System,2,5,Rigid,"[0, 4, 21]","[[3, 4, 2]]"
+Coffee Maker,10,3,Elastic,"[11, 14, 17]",[1]
+Light,1,2,Rigid,"[4, 5, 12, 14, 15]","[[1, 5, 1, 1, 8]]"
+Water Purifier,2,5,Elastic,"[5, 8, 19]",[1]
+Desktops,3,1,Rigid,"[3, 7, 10, 12, 14]","[[1, 3, 2, 2, 7]]"
+Rice Cooker,2,2,Rigid,"[13, 15, 17, 19]","[[1, 2, 1, 3]]"
+Audio System,2,4,Rigid,"[14, 20]","[[2, 1]]"
+Projector,3,1,Elastic,"[4, 11, 17]",[3]
+AC,10,1,Elastic,"[14, 15, 22]",[1]
+Heater,10,7,Elastic,"[3, 5, 9]",[2]
+Water Pump,10,2,Rigid,"[10, 15, 17, 20, 21]","[[3, 2, 3, 1, 2]]"
+Coffee Maker,10,7,Rigid,"[7, 17]","[[4, 5]]"
+Laptop,1,6,Rigid,"[0, 11, 13]","[[6, 2, 10]]"
+Kettle,10,4,Elastic,"[7, 10, 12]",[2]
+Laptop,1,7,Elastic,"[2, 7, 19]",[3]
+TV,5,5,Rigid,"[0, 2, 11, 13]","[[1, 2, 1, 6]]"
+Water Pump,10,7,Elastic,"[17, 20, 22]",[1]
+Laptop,1,3,Rigid,"[3, 4, 5, 14, 18]","[[1, 1, 3, 3, 5]]"
+Heater,10,3,Rigid,"[5, 7, 22]","[[2, 10, 1]]"
+Monitors,2,2,Rigid,"[4, 6, 11, 15, 18]","[[1, 3, 3, 1, 4]]"
+Printer,5,8,Rigid,"[6, 22]","[[1, 1]]"
+Security Camera,1,4,Rigid,[3],[[13]]
+AirPurifier,3,8,Elastic,"[4, 8, 21]",[2]
+Dehumidifier,3,7,Elastic,"[11, 13, 17]",[1]
+Laptop,1,3,Rigid,"[0, 7]","[[6, 13]]"
+Vaccum Cleaner,2,8,Rigid,[5],[[17]]
+Light,1,7,Elastic,"[4, 7, 13]",[3]
+Heater,10,1,Elastic,"[4, 16, 22]",[1]
+Dishwasher,10,6,Rigid,"[3, 20]","[[14, 1]]"
+Security Camera,1,3,Rigid,"[0, 15, 20]","[[1, 4, 1]]"
+Kettle,10,2,Elastic,"[16, 17, 19]",[1]
+Audio System,2,7,Elastic,"[7, 12, 16]",[4]
+AC,10,2,Rigid,"[18, 19]","[[1, 1]]"
+Security Camera,1,2,Rigid,[22],[[1]]
+Desktops,3,7,Rigid,[9],[[8]]
+Dishwasher,10,7,Elastic,"[1, 12, 20]",[3]
+Dishwasher,10,5,Elastic,"[7, 8, 14]",[1]
+Water Purifier,2,1,Elastic,"[5, 16, 22]",[1]
+Rice Cooker,2,3,Elastic,"[12, 16, 21]",[2]
+Refrigerator,5,7,Elastic,"[7, 9, 20]",[1]
+Fan,1,8,Rigid,"[8, 9, 17]","[[1, 3, 1]]"
+Printer,5,8,Elastic,"[10, 17, 18]",[1]
+Audio System,2,1,Rigid,"[2, 14, 19]","[[5, 1, 3]]"
+Dishwasher,10,7,Rigid,[21],[[2]]
+Refrigerator,5,8,Rigid,"[10, 15, 16, 18, 21]","[[1, 1, 1, 1, 1]]"
+Light,1,5,Rigid,"[4, 17]","[[4, 2]]"
+Desktops,3,6,Elastic,"[4, 8, 19]",[3]
+Washing Machine,10,2,Elastic,"[0, 1, 13]",[1]
+Water Purifier,2,7,Rigid,"[6, 21]","[[1, 2]]"
+Rice Cooker,2,6,Rigid,"[1, 7]","[[3, 3]]"
+Rice Cooker,2,4,Rigid,"[4, 16, 22]","[[7, 1, 1]]"
+Dishwasher,10,8,Elastic,"[8, 9, 22]",[1]
+Audio System,2,7,Rigid,"[0, 4, 14, 17]","[[2, 8, 3, 1]]"
+Heater,10,7,Rigid,"[3, 7, 10, 15, 18]","[[1, 1, 4, 2, 5]]"
+Kettle,10,7,Elastic,"[0, 12, 20]",[1]
+TV,5,1,Elastic,"[12, 13, 19]",[1]
+AC,10,7,Elastic,"[3, 10, 16]",[2]
+Refrigerator,5,5,Rigid,"[3, 8, 11, 14, 21]","[[1, 2, 1, 7, 1]]"
+Coffee Maker,10,7,Rigid,"[4, 12, 17, 18]","[[8, 2, 1, 4]]"
+Projector,3,2,Rigid,[14],[[2]]
+Heater,10,1,Elastic,"[1, 2, 18]",[1]
+Dehumidifier,3,2,Elastic,"[10, 11, 19]",[1]
+Heater,10,4,Elastic,"[7, 19, 20]",[1]
+Dehumidifier,3,6,Elastic,"[0, 18, 21]",[2]
+Humidifier,3,3,Rigid,"[2, 8]","[[4, 4]]"
+Laptop,1,2,Elastic,"[6, 12, 22]",[1]
+Projector,3,4,Elastic,"[3, 9, 22]",[1]
+Heater,10,8,Elastic,"[2, 3, 7]",[1]
+Desktops,3,3,Elastic,"[3, 13, 17]",[2]
+Fan,1,5,Rigid,"[1, 8, 9, 11, 19]","[[1, 1, 2, 1, 2]]"
+Security Camera,1,8,Elastic,"[3, 7, 21]",[1]
+Laptop,1,4,Rigid,"[0, 14, 17, 19, 21]","[[4, 2, 1, 1, 1]]"
+Laptop,1,1,Rigid,"[2, 16, 18]","[[9, 2, 2]]"
+Printer,5,5,Elastic,"[8, 12, 17]",[4]
+Refrigerator,5,8,Elastic,"[2, 5, 15]",[3]
+TV,5,4,Rigid,"[1, 4, 7, 10, 12]","[[1, 2, 3, 2, 9]]"
+Monitors,2,1,Rigid,"[8, 12, 13, 17, 18]","[[1, 1, 2, 1, 4]]"
+Heater,10,1,Elastic,"[6, 16, 17]",[1]
+Laptop,1,4,Elastic,"[1, 5, 21]",[2]
+AirPurifier,3,3,Rigid,[22],[[1]]
+TV,5,4,Elastic,"[3, 12, 21]",[1]
+Fan,1,6,Elastic,"[15, 16, 21]",[1]
+Vaccum Cleaner,2,4,Elastic,"[8, 11, 12]",[1]
+Washing Machine,10,7,Rigid,"[19, 21]","[[2, 1]]"
+Projector,3,8,Rigid,"[3, 7, 14, 20]","[[3, 5, 1, 2]]"
+Security Camera,1,6,Rigid,"[5, 9, 13, 21, 22]","[[4, 2, 8, 1, 1]]"
+Microwave Oven,10,2,Elastic,"[0, 8, 18]",[1]
+Heater,10,3,Rigid,"[2, 5, 14]","[[2, 7, 8]]"
+Desktops,3,8,Rigid,[1],[[1]]
+AirPurifier,3,5,Elastic,"[5, 15, 17]",[2]
+Projector,3,6,Rigid,"[11, 22]","[[1, 1]]"
+Vaccum Cleaner,2,4,Elastic,"[4, 5, 7]",[1]
+Printer,5,3,Elastic,"[0, 14, 17]",[3]
+Washing Machine,10,1,Elastic,"[7, 8, 21]",[1]
+Laptop,1,7,Elastic,"[12, 13, 16]",[1]
+Rice Cooker,2,1,Rigid,"[5, 13, 16, 17]","[[3, 2, 1, 6]]"
+Rice Cooker,2,6,Elastic,"[9, 12, 17]",[1]
+Heater,10,4,Elastic,"[0, 2, 21]",[2]
+TV,5,5,Elastic,"[0, 5, 15]",[4]
+Fan,1,3,Rigid,"[1, 2, 3, 5]","[[1, 1, 1, 2]]"
+AirPurifier,3,8,Rigid,"[3, 14, 19]","[[6, 3, 4]]"
+Rice Cooker,2,2,Rigid,"[11, 13, 17, 22]","[[2, 3, 2, 1]]"
+Security Camera,1,6,Elastic,"[2, 18, 20]",[2]
+Washing Machine,10,3,Rigid,"[6, 7, 11, 15, 22]","[[1, 2, 3, 2, 1]]"
+Water Purifier,2,8,Elastic,"[1, 17, 22]",[1]
+Security Camera,1,4,Rigid,"[12, 14]","[[2, 7]]"
+Microwave Oven,10,8,Elastic,"[2, 18, 19]",[1]
+Audio System,2,8,Rigid,[0],[[3]]
+Fan,1,5,Rigid,"[12, 16, 17, 22]","[[3, 1, 5, 1]]"
+Water Purifier,2,4,Rigid,"[4, 19, 21]","[[1, 2, 1]]"
+Dehumidifier,3,1,Elastic,"[0, 10, 18]",[5]
+AC,10,1,Elastic,"[20, 21, 22]",[1]
+Water Purifier,2,2,Rigid,[17],[[5]]
+Rice Cooker,2,3,Elastic,"[1, 4, 9]",[3]
+Kettle,10,3,Elastic,"[9, 18, 19]",[1]
+Projector,3,7,Rigid,"[5, 12, 14]","[[5, 1, 9]]"
+Desktops,3,7,Elastic,"[1, 12, 15]",[3]
+Humidifier,3,5,Elastic,"[0, 3, 8]",[1]
+Projector,3,3,Elastic,"[1, 2, 7]",[1]
+Monitors,2,1,Rigid,[8],[[7]]
+Water Pump,10,2,Rigid,"[5, 7, 17, 19]","[[2, 3, 2, 4]]"
+Refrigerator,5,3,Elastic,"[2, 16, 20]",[1]
+Desktops,3,5,Rigid,"[0, 1, 2, 21]","[[1, 1, 19, 2]]"
+Water Purifier,2,2,Rigid,"[4, 20, 21]","[[1, 1, 2]]"
+Projector,3,3,Elastic,"[3, 8, 11]",[1]
+Heater,10,3,Rigid,"[0, 7, 11, 15, 22]","[[6, 2, 4, 6, 1]]"
+Vaccum Cleaner,2,8,Rigid,"[1, 9, 16]","[[6, 2, 2]]"
+Audio System,2,4,Elastic,"[0, 8, 11]",[2]
+Washing Machine,10,7,Elastic,"[2, 8, 16]",[1]
+Laptop,1,7,Elastic,"[3, 4, 21]",[1]
+Laptop,1,5,Elastic,"[10, 11, 22]",[1]
+Washing Machine,10,1,Rigid,"[15, 17, 19]","[[1, 2, 1]]"
+Audio System,2,4,Elastic,"[2, 7, 20]",[2]
+Dehumidifier,3,4,Rigid,[12],[[6]]
+Microwave Oven,10,7,Elastic,"[8, 18, 22]",[1]
+Microwave Oven,10,6,Rigid,"[7, 11, 15, 19]","[[3, 1, 1, 1]]"
+Audio System,2,4,Elastic,"[9, 12, 13]",[1]
+Projector,3,3,Rigid,"[3, 12, 15, 21]","[[7, 3, 2, 2]]"
+Audio System,2,5,Rigid,"[4, 8, 9]","[[3, 1, 3]]"
+Rice Cooker,2,6,Rigid,"[1, 9, 16]","[[5, 4, 3]]"
+Humidifier,3,5,Elastic,"[4, 8, 10]",[2]
+Coffee Maker,10,8,Rigid,"[1, 2, 6, 18]","[[1, 1, 9, 3]]"
+Projector,3,2,Elastic,"[0, 4, 11]",[2]
+Microwave Oven,10,7,Rigid,"[0, 1, 2, 10, 20]","[[1, 1, 3, 5, 3]]"
+Washing Machine,10,7,Elastic,"[1, 5, 20]",[1]
+Water Purifier,2,2,Elastic,"[1, 9, 13]",[2]
+AC,10,8,Rigid,"[2, 10, 16, 20, 21]","[[7, 6, 2, 1, 2]]"
+Monitors,2,7,Elastic,"[0, 6, 8]",[2]
+Security Camera,1,2,Rigid,"[8, 9, 13, 14, 22]","[[1, 3, 1, 8, 1]]"
+Laptop,1,1,Elastic,"[0, 17, 18]",[1]
+Monitors,2,7,Elastic,"[3, 5, 8]",[1]
+Fan,1,7,Rigid,"[12, 21]","[[1, 1]]"
+Kettle,10,3,Rigid,"[5, 6, 13, 20]","[[1, 1, 5, 2]]"
+Refrigerator,5,6,Elastic,"[6, 16, 19]",[2]
+TV,5,5,Elastic,"[4, 20, 22]",[1]
+Heater,10,5,Rigid,"[17, 21]","[[1, 1]]"
+Water Pump,10,3,Elastic,"[5, 7, 20]",[1]
+Washing Machine,10,7,Elastic,"[6, 8, 20]",[2]
+Printer,5,1,Rigid,"[9, 11, 12, 13]","[[2, 1, 1, 5]]"
+AC,10,3,Elastic,"[1, 4, 12]",[1]
+AirPurifier,3,8,Rigid,"[1, 8, 9, 10]","[[7, 1, 1, 13]]"
+Water Purifier,2,7,Elastic,"[6, 15, 19]",[4]
+Rice Cooker,2,2,Rigid,"[10, 22]","[[6, 1]]"
+Printer,5,7,Rigid,"[3, 6, 7, 19]","[[3, 1, 7, 2]]"
+Laptop,1,2,Elastic,"[10, 14, 16]",[1]
+Coffee Maker,10,8,Rigid,[16],[[2]]
+Laptop,1,2,Elastic,"[0, 11, 17]",[3]
+Laptop,1,5,Rigid,"[2, 22]","[[6, 1]]"
+Humidifier,3,2,Rigid,"[13, 19]","[[2, 4]]"
+Audio System,2,2,Elastic,"[2, 6, 7]",[1]
+Laptop,1,3,Elastic,"[2, 11, 18]",[1]
+Heater,10,5,Rigid,"[13, 15, 17, 18, 22]","[[1, 1, 1, 4, 1]]"
+Humidifier,3,8,Elastic,"[10, 18, 21]",[1]
+Light,1,6,Elastic,"[5, 14, 21]",[2]
+Humidifier,3,8,Rigid,"[6, 9, 15, 17, 19]","[[1, 5, 1, 2, 1]]"
+Monitors,2,4,Elastic,"[6, 16, 21]",[2]
+Coffee Maker,10,1,Elastic,"[6, 20, 22]",[1]
+Dehumidifier,3,4,Elastic,"[0, 10, 14]",[4]
+Audio System,2,2,Rigid,"[0, 1, 5, 12, 16]","[[1, 4, 3, 4, 1]]"
+Kettle,10,7,Rigid,"[0, 1, 6, 17, 20]","[[1, 1, 3, 2, 3]]"
+Water Pump,10,3,Rigid,"[12, 16, 22]","[[1, 5, 1]]"
+Monitors,2,7,Elastic,"[1, 6, 11]",[5]
+TV,5,8,Rigid,"[6, 7]","[[1, 10]]"
+Vaccum Cleaner,2,4,Rigid,"[0, 3, 18]","[[1, 10, 3]]"
+Desktops,3,3,Elastic,"[2, 13, 17]",[2]
+Dishwasher,10,3,Elastic,"[11, 14, 21]",[1]
+Water Purifier,2,2,Elastic,"[0, 9, 11]",[1]
+Microwave Oven,10,6,Rigid,[14],[[7]]
+Humidifier,3,5,Rigid,"[1, 6, 10]","[[1, 1, 12]]"
+Audio System,2,8,Elastic,"[1, 8, 22]",[1]
+Monitors,2,4,Rigid,"[11, 13]","[[2, 8]]"
+Security Camera,1,7,Rigid,"[16, 18]","[[2, 5]]"
+AirPurifier,3,1,Rigid,"[2, 4, 11, 22]","[[1, 5, 11, 1]]"
+Water Pump,10,3,Elastic,"[4, 6, 19]",[1]
+Laptop,1,5,Elastic,"[0, 4, 11]",[1]
+Projector,3,7,Elastic,"[4, 9, 21]",[2]
+Rice Cooker,2,8,Elastic,"[5, 9, 15]",[3]
+Security Camera,1,4,Rigid,"[0, 1, 2, 19]","[[1, 1, 8, 2]]"
+Coffee Maker,10,7,Rigid,"[2, 5, 6, 8, 19]","[[2, 1, 1, 2, 2]]"
+Water Pump,10,8,Rigid,"[5, 11, 18, 19]","[[1, 3, 1, 4]]"
+Dishwasher,10,8,Elastic,"[2, 6, 21]",[2]
+AC,10,6,Elastic,"[13, 16, 19]",[3]
+Fan,1,7,Elastic,"[11, 15, 16]",[1]
+Rice Cooker,2,1,Rigid,"[4, 13, 21]","[[4, 5, 1]]"
+Audio System,2,5,Rigid,[8],[[11]]
+Dishwasher,10,3,Elastic,"[7, 14, 18]",[4]
+Fan,1,8,Elastic,"[9, 12, 16]",[1]
+Kettle,10,3,Rigid,"[2, 11, 15, 18]","[[9, 2, 1, 2]]"
+Laptop,1,6,Rigid,"[16, 22]","[[5, 1]]"
+Kettle,10,3,Rigid,[7],[[2]]
+Audio System,2,2,Rigid,"[8, 17]","[[4, 3]]"
+Security Camera,1,7,Elastic,"[1, 17, 19]",[1]
+Printer,5,6,Elastic,"[9, 12, 21]",[2]
+Water Purifier,2,5,Rigid,"[0, 3, 20, 21, 22]","[[2, 3, 1, 1, 1]]"
+Water Pump,10,2,Rigid,"[6, 9, 14]","[[2, 5, 9]]"
+Audio System,2,8,Elastic,"[0, 2, 9]",[2]
+Audio System,2,5,Elastic,"[5, 19, 20]",[1]
+Coffee Maker,10,8,Rigid,"[0, 15]","[[5, 5]]"
+Water Purifier,2,6,Rigid,"[3, 6, 14, 21, 22]","[[2, 4, 4, 1, 1]]"
+Water Purifier,2,6,Rigid,[16],[[6]]
+Laptop,1,4,Elastic,"[9, 15, 20]",[1]
+Monitors,2,8,Elastic,"[11, 18, 21]",[2]
+Humidifier,3,5,Rigid,"[8, 15, 18, 21]","[[5, 2, 2, 2]]"
+Printer,5,2,Elastic,"[9, 14, 21]",[1]
+Microwave Oven,10,4,Rigid,"[8, 22]","[[14, 1]]"
+Printer,5,7,Elastic,"[2, 4, 7]",[1]
+Water Pump,10,7,Rigid,"[8, 12, 19]","[[1, 3, 2]]"
+Monitors,2,7,Elastic,"[9, 21, 22]",[1]
+Dishwasher,10,3,Rigid,"[15, 16]","[[1, 1]]"
+Security Camera,1,6,Elastic,"[1, 9, 14]",[1]
+Dehumidifier,3,4,Elastic,"[5, 8, 9]",[1]
+Dishwasher,10,1,Rigid,"[10, 12]","[[2, 8]]"
+Security Camera,1,1,Rigid,"[0, 14, 17, 19]","[[9, 2, 1, 1]]"
+Refrigerator,5,1,Elastic,"[2, 6, 15]",[3]
+Dishwasher,10,7,Elastic,"[6, 10, 17]",[1]
+Water Pump,10,8,Elastic,"[13, 16, 20]",[1]
+Water Purifier,2,5,Rigid,[13],[[3]]
+Humidifier,3,2,Elastic,"[3, 11, 18]",[5]
+AirPurifier,3,4,Elastic,"[2, 5, 10]",[1]
+Heater,10,2,Elastic,"[14, 16, 18]",[2]
+Rice Cooker,2,8,Rigid,"[0, 5]","[[3, 6]]"
+Laptop,1,3,Rigid,"[2, 4, 15, 16]","[[2, 7, 1, 5]]"
+Kettle,10,8,Elastic,"[4, 15, 21]",[1]
+Printer,5,5,Rigid,"[4, 6, 12, 14]","[[1, 3, 1, 3]]"
+Heater,10,8,Elastic,"[4, 19, 20]",[1]
+Kettle,10,2,Rigid,[0],[[22]]
+Light,1,3,Elastic,"[1, 6, 13]",[3]
+Dehumidifier,3,4,Rigid,"[2, 3, 11, 13]","[[1, 6, 1, 1]]"
+Fan,1,7,Rigid,"[2, 21]","[[6, 2]]"
+Dishwasher,10,6,Elastic,"[4, 9, 21]",[2]
+Light,1,5,Rigid,[19],[[3]]
+Fan,1,5,Rigid,"[8, 20]","[[10, 2]]"
+Fan,1,5,Rigid,"[5, 21]","[[6, 1]]"
+Refrigerator,5,8,Rigid,[6],[[12]]
+Water Pump,10,2,Rigid,"[7, 9, 12]","[[1, 2, 3]]"
+Heater,10,2,Elastic,"[3, 6, 16]",[2]
+Coffee Maker,10,2,Rigid,"[0, 9, 15, 20]","[[8, 4, 3, 1]]"
+Water Pump,10,4,Rigid,"[13, 22]","[[4, 1]]"
+TV,5,1,Rigid,[11],[[2]]
+Fan,1,7,Elastic,"[13, 14, 21]",[1]
+AirPurifier,3,4,Elastic,"[3, 4, 16]",[1]
+Water Pump,10,2,Rigid,"[6, 22]","[[13, 1]]"
+Dehumidifier,3,6,Rigid,[21],[[1]]
+Microwave Oven,10,5,Rigid,[0],[[12]]
+Audio System,2,7,Elastic,"[3, 14, 21]",[1]
+Microwave Oven,10,1,Rigid,"[5, 6]","[[1, 5]]"
+Water Purifier,2,6,Rigid,[17],[[4]]
